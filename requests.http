@@ -1,0 +1,5 @@
+### Test
+GET https://api.stockdata.org/v1/data/quote?symbols=AAPL,TSLA,MSFT&api_token=APIKEYHERE
+
+### Stock Tickers
+GET http://localhost:3000/stock_tickers?search_terms=AAPL,TSLA,MSFT
